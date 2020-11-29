@@ -1,1 +1,1 @@
-# DiplomadoUPC
+# DiplomadoPUCP
