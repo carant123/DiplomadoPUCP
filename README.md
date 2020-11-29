@@ -1,4 +1,4 @@
-# Diplomado UCP - Detección en tiempo real de personas con mascarilla en ambientes no controlados
+# Diplomado PUCP - Detección en tiempo real de personas con mascarilla en ambientes no controlados
 
 Proyecto Final de fin de curso de Vision Artificial del Diplomado de Inteligencia Artificial de la PUCP.
 
